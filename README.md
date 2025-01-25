@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ukuko
 - 👀 I’m interested in and all topics DevOps and SW Engineering (specially Architecture, Design, Testing) 
-- 🌱 I’m currently learning Azure, ELK
-- 💞️ I’m looking to collaborate on Jenkins related projects
+- 🌱 I’m currently learning more about cloud (mostly Azure)
+- 💞️ I’m looking to collaborate on CI/CD related projects (Jenkins, Gitlab CI/CD)
 - 📫 Reach me via email
 
 <!---
